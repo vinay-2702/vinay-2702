@@ -1,4 +1,4 @@
-![logo](https://github.com/vinay-2702/vinay-2702/blob/main/1.png)
+![logo](https://github.com/vinay-2702/vinay-2702/blob/main/1731743065620.jpg)
 <h1 align="center">Hi 👋, I'm Vinay Soni</h1>
 <h3 align="center">"Passionate Frontend & Shopify Developer from India | Crafting Responsive & Engaging Web Experiences"</h3>
 
