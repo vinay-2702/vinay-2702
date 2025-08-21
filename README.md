@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I love experimenting with new design tools, and sometimes spend hours just perfecting small UI details 😅**
 
-- <img align="right" alt="Coding" widht="200" src="https://i.gifer.com/3Bw6.gif"/>
+- <img align="right" alt="Coding" width="300" src="https://i.gifer.com/3Bw6.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
