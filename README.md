@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Exploring advanced UX practices and improving design thinking**
 
-- 👨‍💻 All of my projects are available at [Coming Soon – Portfolio in progress](Coming Soon – Portfolio in progress)
+- 👨‍💻 All of my projects are available at [Coming Soon – Portfolio in progress](Coming Soon Portfolio in progress)
 
 - 📝 I regularly write articles on [UI/UX learnings and frontend development notes](UI/UX learnings and frontend development notes)
 
