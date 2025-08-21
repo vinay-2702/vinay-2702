@@ -1,3 +1,5 @@
+![logo](https://github.com/vinay-2702/vinay-2702/blob/main/Make%20your%20README.png)
+
 <h1 align="center">Hi 👋, I'm vinay soni</h1>
 <h3 align="center">I create modern designs and turn them into functional websites</h3>
 
